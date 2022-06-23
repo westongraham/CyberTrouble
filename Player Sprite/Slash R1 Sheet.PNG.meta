@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: f3f5e90397a58d0499898934ed974468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200077904604207666
+    second: Slash R1 Sheet_0
+  - first:
+      213: -1693918503894509045
+    second: Slash R1 Sheet_1
+  - first:
+      213: 4023753751878436569
+    second: Slash R1 Sheet_2
+  - first:
+      213: 6957585487297166187
+    second: Slash R1 Sheet_3
+  - first:
+      213: 8266536958198974425
+    second: Slash R1 Sheet_4
+  - first:
+      213: -1696982015899082448
+    second: Slash R1 Sheet_5
+  - first:
+      213: 3726180710796763713
+    second: Slash R1 Sheet_6
+  - first:
+      213: -1070831597569876581
+    second: Slash R1 Sheet_7
+  - first:
+      213: 4591545935390048147
+    second: Slash R1 Sheet_8
+  - first:
+      213: 681546123293130929
+    second: Slash R1 Sheet_9
+  - first:
+      213: -2175956613923201604
+    second: Slash R1 Sheet_10
+  - first:
+      213: -3571036396371612724
+    second: Slash R1 Sheet_11
+  - first:
+      213: -1143361922180932908
+    second: Slash R1 Sheet_12
+  - first:
+      213: 218041537932440330
+    second: Slash R1 Sheet_13
+  - first:
+      213: -3330808085720231961
+    second: Slash R1 Sheet_14
+  - first:
+      213: -3874963329796910836
+    second: Slash R1 Sheet_15
+  - first:
+      213: 1705411013281255326
+    second: Slash R1 Sheet_16
+  - first:
+      213: 5733377407443770611
+    second: Slash R1 Sheet_17
+  - first:
+      213: 3036693550718631784
+    second: Slash R1 Sheet_18
+  - first:
+      213: -7813698066146390457
+    second: Slash R1 Sheet_19
+  - first:
+      213: 7010264620350256532
+    second: Slash R1 Sheet_20
+  - first:
+      213: 6327480598375559705
+    second: Slash R1 Sheet_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slash R1 Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1186
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a967a88678cc170800000000000000
+      internalID: 8200077904604207666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 923
+        width: 134
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a18e0781efd78e0800000000000000
+      internalID: -1693918503894509045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 923
+        width: 153
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60c54f7be37d730800000000000000
+      internalID: 4023753751878436569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 923
+        width: 160
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb2c8432f4e8060800000000000000
+      internalID: 6957585487297166187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 922
+        width: 224
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78614c093a8b270800000000000000
+      internalID: 8266536958198974425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 920
+        width: 258
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031eb18f8db1378e0800000000000000
+      internalID: -1696982015899082448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 919
+        width: 237
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14224f34d9d06b330800000000000000
+      internalID: 3726180710796763713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 918
+        width: 224
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5594e554a321f0800000000000000
+      internalID: -1070831597569876581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1178
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fffc083b278bf30800000000000000
+      internalID: 4591545935390048147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 922
+        width: 210
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08ee09696557900800000000000000
+      internalID: 681546123293130929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1169
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd12740df27dc1e0800000000000000
+      internalID: -2175956613923201604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 173
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb67425151217ec0800000000000000
+      internalID: -3571036396371612724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 926
+        width: 127
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da92bab366f120f0800000000000000
+      internalID: -1143361922180932908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 923
+        width: 126
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033ebe9f93a60300800000000000000
+      internalID: 218041537932440330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 632
+        width: 198
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef85a381b796c1d0800000000000000
+      internalID: -3330808085720231961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 632
+        width: 193
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c015ac9c16d593ac0800000000000000
+      internalID: -3874963329796910836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 633
+        width: 187
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0baae746daa710800000000000000
+      internalID: 1705411013281255326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 632
+        width: 182
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9fe5106c019f40800000000000000
+      internalID: 5733377407443770611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 638
+        width: 157
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fbd4ef1b0842a20800000000000000
+      internalID: 3036693550718631784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 632
+        width: 142
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0031f10b209390800000000000000
+      internalID: -7813698066146390457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 631
+        width: 135
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495377db786794160800000000000000
+      internalID: 7010264620350256532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash R1 Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 633
+        width: 133
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f95d641abfc750800000000000000
+      internalID: 6327480598375559705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
