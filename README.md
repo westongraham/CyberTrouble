@@ -93,9 +93,9 @@ Project Link: [https://github.com/westongraham/westongraham.github.io](https://g
 <!-- Contributors -->
 ## Contributors
 
-* [Weston Graham](Map Design/ Map Assets)
-* [David Nguyen](Programmer)
-* [Dilfer Kongphouthakhoun](Animations/Assets)
+* Weston Graham - Map Design/ Map Assets
+* David Nguyen - Programmer
+* Dilfer Kongphouthakhoun - Animations/Assets
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
